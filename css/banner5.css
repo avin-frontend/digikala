@@ -1,0 +1,10 @@
+.banner5 {
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+}
+.banner5-img {
+  width: 42.8vw;
+  border-radius: 16px;
+}

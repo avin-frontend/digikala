@@ -1,0 +1,10 @@
+.banner4 {
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+}
+.banner4-img {
+  width: 42.8vw;
+  border-radius: 16px;
+}

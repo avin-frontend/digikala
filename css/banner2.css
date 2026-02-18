@@ -1,0 +1,96 @@
+.banner2-parent {
+  width: 86.9%;
+  border-radius: 16px;
+  margin: 0px auto;
+  background: linear-gradient(
+    267.6deg,
+    rgba(2, 154, 73, 0.1),
+    rgba(242, 242, 242) 100%
+  );
+}
+.banner2 {
+  height: 110px;
+  margin-top: 9px;
+  background: url(../images/svg/freshPattern.svg) left no-repeat;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner2-right {
+  padding-right: 3%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+.banner2-discount {
+  background-color: #029a49;
+  height: 28px;
+  width: 7.3vw;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    color: white;
+    font-size: 14px;
+  }
+}
+.banner2-right-img2 {
+  width: 16vw;
+}
+.banner2-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 40px;
+}
+.banner2-left-right {
+  display: flex;
+  gap: 8px;
+}
+.banner2-kala {
+  width: 74px;
+  height: 74px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+.banner2-kala img {
+  width: 3.5vw;
+}
+.banner2-kala span {
+  width: 34px;
+  height: 20px;
+  border-radius: 16px;
+  display: block;
+  background-color: #d32f2f;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 2.17;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 72.5%;
+  left: 53%;
+}
+.banner2-left-left {
+  background-color: white;
+  width: 142px;
+  height: 50px;
+  border-radius: 30px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 2.17;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #029a49;
+}

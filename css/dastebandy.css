@@ -1,0 +1,33 @@
+.dastebandy {
+  display: flex;
+  justify-content: center;
+  margin-top: 35px;
+  .dastebandy-div {
+    width: 87%;
+    height: 100%;
+    .mySwiper4 {
+      margin-top: 45px;
+    }
+    span {
+      text-align: center;
+      font-size: 22px;
+    }
+  }
+}
+.daste-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+.daste-div-div {
+    
+  img {
+    width: 6.5vw;
+  }
+  p{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+  }
+}
